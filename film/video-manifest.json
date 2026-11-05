@@ -1,0 +1,26 @@
+{
+  "title": "Broken Techno Drum Cells",
+  "study": "z2001",
+  "bpm": 132,
+  "source_audio": "preview/broken-techno-drum-cells-simple-synth-preview.mp3",
+  "source_audio_sha256": "5557320a6991fc00760d299cd4675ec0cc3202462f4ca5c75a982de30ceda98d",
+  "source_midi": "midi/z2001-broken-techno-drum-cells-opening/z2001-broken-techno-drum-cells-opening-combined.mid",
+  "source_midi_sha256": "84635ac08abf5d9374b5b4045b6098ff06ca3f95f1eac306be32b6056c53aa07",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "215251e38f6a96d3ac322ef3c8bd10bc60470d4530c78adcfc25bb044037cf05",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "b64f7d4e20cce5d8cc9986639c68855325bc657e4784515347dec6643ff3f61d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "c6b66f1e2c95a6847b52f874c64683575f244f471bf821e6fca265b1511889c6",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

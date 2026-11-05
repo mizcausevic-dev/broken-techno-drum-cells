@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:50.698150+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a4ee73dac9304b2109119c28c3782bafd50a326600c318beb68260e8d52496ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e32bc01d86cd6f3788d9e307356ecd76728ccd04e0260cee28daaec5a4615af9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "e5e830f28f8e34954cf650db638da8beadfd0617886d7141175d95f48708c9e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "5867bdacb46e45a8d530903611f7ad0ba52ce7e6f0d0d863f2b771ef15eeac97",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c7f257041f27e2efefb4806901a0a50ab69370527d27f1e23534e4507ccfabb6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2001-broken-techno-drum-cells-opening/z2001-broken-techno-drum-cells-opening-combined.mid",
+      "bytes": 6039,
+      "sha256": "84635ac08abf5d9374b5b4045b6098ff06ca3f95f1eac306be32b6056c53aa07",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c1e86a53053a79ccd3be64691158238eb7459d872306f70eabe8d45ff7120ddd",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d9d0eae4bc12e542e03f9dc7d856fe5b1dbed50b2e6168345795341a81c73fb9",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "6b07db90521063208a0ed27dec0da677809f4f90a2da83d87f8359a9a19059c8",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "03c8d75710f96eb6ec158483c5a28f90010475fc8cba9d0737b25e7810e6d47e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae794f7faea08be33b043036c5d1f4c53f3fd3843b5e528ca9ce15bfc8374022",
+      "errors": []
+    },
+    {
+      "path": "midi/z2002-broken-techno-drum-cells-variation/z2002-broken-techno-drum-cells-variation-combined.mid",
+      "bytes": 6039,
+      "sha256": "4b40de8d92d03d4e18f82aebea266ce0fd7b03dde071d8f950e5c6b3c9bad681",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "15162b222837a64b15e96fd83e912b333c54640342c284d11aa53a8e0d075469",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d35226d4a73f5701352f977f2cf4143e1c910dbe48369ed8605f361ca0cd4bab",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "d6166399b9f918389ca01ab240e6fd0eddd53a9081b599fa2a813db68cd631b7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "bbda871def7ce8f64def0b89f6fd9ac84125f9f0452c91c9afd3bd6c56defa5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d5fdb3251c79a7baefad6613275f91e994b36fe77e851193c2ab1e8b907713e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2003-broken-techno-drum-cells-contrast/z2003-broken-techno-drum-cells-contrast-combined.mid",
+      "bytes": 6005,
+      "sha256": "0178fd45632171cac7fdfec1b04f8dcad4ff53e27a9f59e93696d874aeb6f021",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "8fd3ac8e02b9a90cc7be82b3ee70005c13d304bcfbd925c6a5ef29f577b66cd2",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0623698221d07a91742430cf95c9f92465c98b2cb02050e400bc8641caec60c4",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "f9afe776efcc736becfb8df7aeea682ed76a15a72b1d70698c0f42a76c4ebdc8",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "5e46123dc3d220fcd01b464d455dd804d24184b68ae51624aefee0d0b0b6e34f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "af7c1d3e1bcd47f25d56488bb6524c59a1caf2903d098d6ff594431e74e39d51",
+      "errors": []
+    },
+    {
+      "path": "midi/z2004-broken-techno-drum-cells-return/z2004-broken-techno-drum-cells-return-combined.mid",
+      "bytes": 6005,
+      "sha256": "970ead9ec177e16c2e1a2ef4dbcb781329d7e97df3137b207606546612919387",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
