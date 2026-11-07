@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/broken-techno-drum-cells-midi.zip",
-      "bytes": 32998,
-      "sha256": "416bb3e0b2997f27d4b0163629f6887fec8882e0a9e43cdb768012562fc4d5a4"
+      "bytes": 33985,
+      "sha256": "01eaa3a4ed938b695b80724004c1db62252a4dd2b0082e15dc2e4bf46964df55"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "b82bc5254b3de8a5f9edd2b584eb0a11a286566283cc40a5374d2f601d9f78b8"
+      "bytes": 10210,
+      "sha256": "4b27bb59609e3b35a384e32311ff0b11ca326e8a9fa87b09b3d301d0985f9be4"
     },
     {
       "path": "midi/z2001-broken-techno-drum-cells-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "970ead9ec177e16c2e1a2ef4dbcb781329d7e97df3137b207606546612919387"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/broken-techno-drum-cells-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "5557320a6991fc00760d299cd4675ec0cc3202462f4ca5c75a982de30ceda98d"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3993,
-      "sha256": "f34e729c0fc9bf7faf4d6a5b2723a88b07859e0b5bc4115062f2891b81fd5583"
+      "bytes": 4108,
+      "sha256": "1898f3228af7700f76acf4564187fb6de50e8effd9c8f4becc02c17ab6126f19"
     },
     {
       "path": "social/instagram/caption.txt",
